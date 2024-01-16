@@ -20,6 +20,10 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
+  "type":[
+"redux-persist",
+"@type/redux-persist"
+  ],
   "include": [
     "src"
   ]
